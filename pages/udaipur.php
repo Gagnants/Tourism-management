@@ -26,7 +26,7 @@
 	<li><div class="template">
      <h2>FORTS  & PALACES </h2><hr />
     
-    <a href="product1.php"><img src="../images/product/product1.jpeg"></a>
+    <a href="p1.php"><img src="../images/f.jpg"></a>
 
 
     
@@ -34,21 +34,21 @@
     <li><div class="template">
     <h2>WILDLIFE</h2><hr />
     
-    <a href="product2.php"><img src="../images/product/product2.jpeg"></a>
+    <a href="p2.php"><img src="../images/w.jpg"></a>
     
    	<center><button type="button" value="Bid now" class="pro"><a href="product2.php" id="a">CLICK HERE</a></button></center>
     </div>
     <li><div class="template">
    	<h2>MUSEUM</h2><hr />
     
-    <a href="product3.php"><img src="../images/product/product3.jpeg"></a>
+    <a href="p3.php"><img src="../images/m.jpg"></a>
    
     <center><button type="button" class="pro" value="Bid now"><a href="product3.php" id="a">CLICK HERE</a></button></center>
     </div><br />
     <li><div class="template">
     <h2>LAKES</h2><hr />
     
-    <a href="product4.php"><img src="../images/product/product4.jpeg"></a>
+    <a href="p4.php"><img src="../images/l.jpeg"></a>
     
 <center><button type="button" class="pro" value="Bid now"><a href="product4.php" id="a">CLICK HERE</a></button></center>
    </div>
